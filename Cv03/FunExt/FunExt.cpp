@@ -13,7 +13,7 @@ int main()
     {
         double y = 5 - 3 * x + 2 * (x - 5) * (x - 5) - (x - 10) * (x - 10) * (x - 10);
 
-        if (y < maxY)
+        if (y > maxY)
         {
             maxY = y;
             maxX = x;
