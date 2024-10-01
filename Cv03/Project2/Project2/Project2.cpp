@@ -1,7 +1,7 @@
-﻿// FunExt.cpp : Defines the entry point for the application.
+﻿// Project2.cpp: Definuje vstupní bod pro aplikaci.
 //
 
-#include "FunExt.h"
+#include "Project2.h"
 
 using namespace std;
 
@@ -13,7 +13,7 @@ int main()
     {
         double y = 5 - 3 * x + 2 * (x - 5) * (x - 5) - (x - 10) * (x - 10) * (x - 10);
 
-        if (y < maxY)
+        if (y > maxY)
         {
             maxY = y;
             maxX = x;
