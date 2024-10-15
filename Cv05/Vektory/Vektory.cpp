@@ -7,7 +7,7 @@
 using namespace std;
 double A[3];
 double B[3];
-double C[3] = { 0,0,0 };
+double C[3] = {0,0,0};
 
 void vektorovySoucet(double a[3], double b[3], double c[3])
 {
