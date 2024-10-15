@@ -1,4 +1,4 @@
-//funkce na souèin dvou trojrozmìrných vektorù
+//vektorovy soucin dvou trojrozmernych vektoru c=a*b
  extern void vektorovySoucin(double a[3], double b[3], double c[3])
 {
 	c[0] = (a[1] * b[2]) - (a[2] * b[1]);
