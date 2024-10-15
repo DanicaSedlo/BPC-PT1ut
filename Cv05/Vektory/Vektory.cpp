@@ -47,7 +47,7 @@ int main()
 	printf("Soucet A+B : %lf %lf %lf", C[0], C[1], C[2]);
 	printf("\n");
 
-	printf("velikost vektoru je: %lf", velikost(A));
+	printf("Velikost vektoru A: %lf", velikost(A));
 
 	printf("\n");
 	printf("Skalarni soucin AB: %lf", skalarniSoucin(A, B));
