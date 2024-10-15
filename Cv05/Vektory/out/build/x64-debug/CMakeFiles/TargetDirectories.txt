@@ -1,0 +1,3 @@
+C:/Users/student.DESKTOP-6QQS84D/Documents/Cv05/BPC-PT1ut/Cv05/Vektory/out/build/x64-debug/CMakeFiles/Vektory.dir
+C:/Users/student.DESKTOP-6QQS84D/Documents/Cv05/BPC-PT1ut/Cv05/Vektory/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/student.DESKTOP-6QQS84D/Documents/Cv05/BPC-PT1ut/Cv05/Vektory/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
