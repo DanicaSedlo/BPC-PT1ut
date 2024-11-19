@@ -1,0 +1,4 @@
+Pocet pismen: 72
+Pocet cisel: 7
+Pocet slov: 18
+Pocet vet: 1
